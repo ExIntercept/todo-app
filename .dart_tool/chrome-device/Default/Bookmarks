@@ -1,0 +1,89 @@
+{
+   "checksum": "38fb6642c3c4802736e48e6902290e63",
+   "roots": {
+      "bookmark_bar": {
+         "children": [ {
+            "date_added": "13356789559249035",
+            "date_last_used": "0",
+            "guid": "8bd040f2-10cd-442f-94a2-14e701894d79",
+            "id": "8",
+            "name": "ASUS Software Portal - Exclusive technology",
+            "show_icon": false,
+            "source": "oem_preload",
+            "type": "url",
+            "url": "https://www.asus.com/Software-and-Innovations-Portal/"
+         }, {
+            "date_added": "13356789559248572",
+            "date_last_used": "0",
+            "guid": "d1e39790-a013-4c5a-875f-c2146f59f3d7",
+            "id": "7",
+            "name": "MyASUS Software - Get the best from ASUS PC",
+            "show_icon": false,
+            "source": "oem_preload",
+            "type": "url",
+            "url": "https://www.asus.com/ASUS-Software/"
+         }, {
+            "children": [ {
+               "date_added": "13295112470927960",
+               "date_last_used": "0",
+               "guid": "21d426ed-1993-4fba-8c37-758a940f908a",
+               "id": "10",
+               "name": "ASUS Homepage",
+               "show_icon": false,
+               "source": "import_fre",
+               "type": "url",
+               "url": "http://www.asus.com/"
+            }, {
+               "date_added": "13295112470927960",
+               "date_last_used": "0",
+               "guid": "7f7bc24a-76df-48cb-9106-707e0fd15208",
+               "id": "12",
+               "name": "ASUS Member",
+               "show_icon": false,
+               "source": "import_fre",
+               "type": "url",
+               "url": "https://account.asus.com/"
+            } ],
+            "date_added": "13356789561839599",
+            "date_last_used": "0",
+            "date_modified": "0",
+            "guid": "5357dec1-3148-44cd-8fb3-d0b6bd15866b",
+            "id": "9",
+            "name": "ASUS E-Service",
+            "source": "import_fre",
+            "type": "folder"
+         } ],
+         "date_added": "13356789558966403",
+         "date_last_used": "0",
+         "date_modified": "0",
+         "guid": "0bc5d13f-2cba-5d74-951f-3f233fe6c908",
+         "id": "1",
+         "name": "Favorites bar",
+         "source": "unknown",
+         "type": "folder"
+      },
+      "other": {
+         "children": [  ],
+         "date_added": "13356789558966405",
+         "date_last_used": "0",
+         "date_modified": "0",
+         "guid": "82b081ec-3dd3-529c-8475-ab6c344590dd",
+         "id": "2",
+         "name": "Other favorites",
+         "source": "unknown",
+         "type": "folder"
+      },
+      "synced": {
+         "children": [  ],
+         "date_added": "13356789558966407",
+         "date_last_used": "0",
+         "date_modified": "0",
+         "guid": "4cf2e351-0e85-532b-bb37-df045d8f8d0f",
+         "id": "3",
+         "name": "Mobile favorites",
+         "source": "unknown",
+         "type": "folder"
+      }
+   },
+   "version": 1
+}
